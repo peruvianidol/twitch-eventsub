@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Mike Aparicio <peruvianidol@gmail.com> (http://mikeaparicio.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+
+  }
 }
